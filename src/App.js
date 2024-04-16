@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React ROMIKA (ROMS)
         </a>
       </header>
     </div>
